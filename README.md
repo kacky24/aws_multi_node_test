@@ -1,9 +1,6 @@
 # AWS multi node test
 - Pytorch example to train on MNIST with multiple nodes in AWS.
 
-## Environment
-- python 3.7.4
-
 ## How to run
 1. Build more than two instances in AWS EC2
 2. Configure security group(https://pytorch.org/tutorials/beginner/aws_distributed_training_tutorial.html)
